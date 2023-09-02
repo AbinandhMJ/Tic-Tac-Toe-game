@@ -14,7 +14,7 @@ Tic Tac Toe commonly know as the paper pencil game developed by using Javascript
 
 ## Demo
 
-You can play the game live by visiting [Game Demo](link-to-demo).
+You can play the game live by visiting [Game Demo](https://titactoe.netlify.app/).
 
 ## Installation
 
@@ -41,6 +41,7 @@ To run this game locally on your machine, follow these steps:
 This project was inspired by the classic game of Tic-Tac-Toe.
 
 ## Contact
-If you have any questions or feedback, please feel free to reach out [Mail](abinandhmurukesan@gmail.com)
+If you have any questions or feedback, please feel free to reach out at [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abinandhmurukesan@gmail.com)
+
 
 ### Happy gaming!
